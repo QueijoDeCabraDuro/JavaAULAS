@@ -6,6 +6,7 @@ public class BancoDigitalMFJ {
         System.out.println("Pressione 2 para retirar dinheiro");
         System.out.println("Pressione 3 para pedir empréstimo");
         System.out.println("Java Builders | SHARKCODERS");
+        System.out.println("Marta F - 19 de Setembro de 2026");
         System.out.println("=================");
 
     }
